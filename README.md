@@ -1,4 +1,4 @@
-# Expense_Records
+# Expense_Records_App
 
 A new Flutter project.
 
